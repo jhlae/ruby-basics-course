@@ -1,0 +1,7 @@
+ilta
+päivä
+aamu
+talvi
+syksy
+kesä
+kevät
